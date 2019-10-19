@@ -12,5 +12,7 @@ The jupyter notebook can be viewed as a read only file on the GitHub repository 
 
 #### Project Plan
 
-##### Research
-- 
+- Review and describe python module numpy
+- Review and comment on module function numpy.random
+- Select a few function in each numpy.random catagory
+- Review and describe selected function with example plots and variation
