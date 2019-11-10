@@ -18,6 +18,6 @@ The GitHub repository https://github.com/markcot/ProgrammingFDA-Assignment can b
 - Explain the use of seeds in generating pseudorandom numbers
 - Review and describe python numpy library
 - Review and describe numpy.random package
-- Explain use of "Simple random data" and "Permutations" routines
-- Explain use and purpuse of at 5 "Distributions" routines
-- Review and describe selected routines with example plots
+- Explain use of "Simple random data" routines rand(), randn(), randint(), random(), choice() and bytes()
+- Explain use of "Permutations" routines shuffle() and permutation()
+- Explain use and purpose of "Distributions" routines beta(), binomial(), exponential(), logistic(), and poison()
