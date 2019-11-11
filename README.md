@@ -21,3 +21,6 @@ The GitHub repository https://github.com/markcot/ProgrammingFDA-Assignment can b
 - Explain use of "Simple random data" routines rand(), randn(), randint(), random(), choice() and bytes()
 - Explain use of "Permutations" routines shuffle() and permutation()
 - Explain use and purpose of "Distributions" routines beta(), binomial(), exponential(), logistic(), and poison()
+
+#### Github Issues
+Note that jupter notebook contains html text that may not appear correctly, when viewed directly on Github. The jupyter notebook should be viewed read only on the nbviewer so text is displayed correctly.
